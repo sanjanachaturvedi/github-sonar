@@ -2,7 +2,7 @@
 artifacts: 
   discard-paths: true
   files: 
-    - target/PrintInformation-1.0-SNAPSHOT.jar
+    - target/*.*
 phases: 
   build: 
     commands: 
